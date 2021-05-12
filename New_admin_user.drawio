@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T20:05:48.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="GQoX4Svem5spj70F6Sp7" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T20:06:06.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="mQwI0U6_Z4P-HtyRMAAE" version="14.6.12" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="3742" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,12 +36,6 @@
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-56" value="Display Admin panel and list workspaces" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="522" y="-147.5" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-59" value="API&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="346" y="140" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-60" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="450" y="-120" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-61" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="dKdSaXE48SgPbhcamS2K-62" target="dKdSaXE48SgPbhcamS2K-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -269,7 +263,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mn1m6iFZU3IUEVJHGiyM-93" value="Payment processing" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="217" y="-150" width="150" height="75" as="geometry" />
+          <mxGeometry x="246.5" y="-150" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Mn1m6iFZU3IUEVJHGiyM-99" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="660" y="-180" width="240" height="20" as="geometry" />
