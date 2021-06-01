@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T20:54:55.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="LzpypFoiSGSzilGx7Gka" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-01T18:01:57.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Vcbf_CyIAoAUYoPdHip0" version="14.6.12" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="3742" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2734" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,23 +16,28 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-47" value="listSubscriptionPlans" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-240" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-49" target="Mn1m6iFZU3IUEVJHGiyM-93">
+        <mxCell id="8ZdGKDGTjWxOnZU_e2z6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.103;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-49" target="Mn1m6iFZU3IUEVJHGiyM-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-49" value="users/createUser" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-30" y="80" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-54" target="dKdSaXE48SgPbhcamS2K-55">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dKdSaXE48SgPbhcamS2K-54" target="dKdSaXE48SgPbhcamS2K-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="Choose workspace subscribtion plan" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-177.5" y="-150" width="153.5" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-55" target="dKdSaXE48SgPbhcamS2K-49">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dKdSaXE48SgPbhcamS2K-55" target="dKdSaXE48SgPbhcamS2K-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="-20" />
+              <mxPoint x="63" y="-20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="Create Admin user account" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="30.5" y="-150" width="150" height="75" as="geometry" />
+          <mxGeometry x="220" y="-170" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-56" value="Display Admin panel and list workspaces" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="522" y="-147.5" width="150" height="75" as="geometry" />
@@ -46,229 +51,226 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="New admin user creation and order process" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-600" y="-250" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-11" target="dKdSaXE48SgPbhcamS2K-56">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-11" target="dKdSaXE48SgPbhcamS2K-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-3" target="Mn1m6iFZU3IUEVJHGiyM-11">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-3" target="Mn1m6iFZU3IUEVJHGiyM-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-3" value="workspace/createWorkspace" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="210" y="10" width="223" height="80" as="geometry" />
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-3" value="workspace/createWorkspace" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="210" y="20" width="223" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-11" value="/workspaces/:workspaceId/owner&#xa;(join new user with new workspace)" style="shape=component;align=center;fillColor=#cce5ff;fontSize=14;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-11" value="/workspaces/:workspaceId/owner&#xa;(join new user with new workspace)" style="shape=component;align=center;fillColor=#cce5ff;fontSize=14;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="190" y="160" width="263" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-13" value="User management process" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-13" value="User management process" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-580" y="490" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-18" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-18" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-540" y="700" width="1514" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-19" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-19" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-570" y="540" width="1570" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Mn1m6iFZU3IUEVJHGiyM-29">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="Mn1m6iFZU3IUEVJHGiyM-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-254" y="607.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-29" target="Mn1m6iFZU3IUEVJHGiyM-43">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-29" target="Mn1m6iFZU3IUEVJHGiyM-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-29" value="Choose worskpace to manage" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-29" value="Choose worskpace to manage" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-182" y="570" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-30" value="Display Admin panel and list workspaces" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-30" value="Display Admin panel and list workspaces" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-406" y="572.5" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-31" value="API&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-31" value="API&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="830" y="700" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-32" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-32" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="830" y="540" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-33" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-34">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-33" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-407.5" y="608" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-34" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-34" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-535" y="560" width="50" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-39" target="dKdSaXE48SgPbhcamS2K-56">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-39" target="dKdSaXE48SgPbhcamS2K-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-39" value="worspace/list" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-39" value="worspace/list" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="504.5" y="30" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-41" target="Mn1m6iFZU3IUEVJHGiyM-30">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-41" target="Mn1m6iFZU3IUEVJHGiyM-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-41" value="worspace/list" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-41" value="worspace/list" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-423.5" y="730" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-43" target="Mn1m6iFZU3IUEVJHGiyM-48">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-43" target="Mn1m6iFZU3IUEVJHGiyM-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-43" value="Show users assigned to the workspace" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-43" value="Show users assigned to the workspace" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="5" y="570" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-45" target="Mn1m6iFZU3IUEVJHGiyM-43">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-45" target="Mn1m6iFZU3IUEVJHGiyM-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-45" value="workspace/listUsers" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-45" value="workspace/listUsers" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-120" y="730" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-48" target="Mn1m6iFZU3IUEVJHGiyM-49">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-48" target="Mn1m6iFZU3IUEVJHGiyM-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-48" value="Invite user to the worskspace" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-48" value="Invite user to the worskspace" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="200" y="570" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-49" target="Mn1m6iFZU3IUEVJHGiyM-52">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-49" target="Mn1m6iFZU3IUEVJHGiyM-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-49" value="users/createUser" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-49" value="users/createUser" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="182.5" y="730" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-52" target="Mn1m6iFZU3IUEVJHGiyM-54">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-52" target="Mn1m6iFZU3IUEVJHGiyM-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-52" value="/workspaces/user&#xa;(invite user to the workspace)&#xa;" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-52" value="/workspaces/user&#xa;(invite user to the workspace)&#xa;" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="146.25" y="840" width="257.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-54" value="Confirm message&lt;br&gt;(Inform about activation process)" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-54" value="Confirm message&lt;br&gt;(Inform about activation process)" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="460" y="570" width="220" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-56" value="New workspace user first login and activation process" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-56" value="New workspace user first login and activation process" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-676" y="1090" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-57" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-57" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-660" y="1510" width="1514" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-58" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-58" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-690" y="1350" width="1570" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Mn1m6iFZU3IUEVJHGiyM-61">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="Mn1m6iFZU3IUEVJHGiyM-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-374" y="1417.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-61" target="Mn1m6iFZU3IUEVJHGiyM-70">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-61" target="Mn1m6iFZU3IUEVJHGiyM-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-61" value="Choose worskpace to manage" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-61" value="Choose worskpace to manage" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-302" y="1380" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-62" value="Display Admin panel and list workspaces" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-62" value="Display Admin panel and list workspaces" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-526" y="1382.5" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-63" value="API&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-63" value="API&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="710" y="1510" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-64" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-64" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="710" y="1350" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-65" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-66">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-65" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-527.5" y="1418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-66" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-66" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-655" y="1370" width="50" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-68" target="Mn1m6iFZU3IUEVJHGiyM-62">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-68" target="Mn1m6iFZU3IUEVJHGiyM-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-68" value="worspace/list" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-68" value="worspace/list" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-543.5" y="1540" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-70" target="Mn1m6iFZU3IUEVJHGiyM-74">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-70" target="Mn1m6iFZU3IUEVJHGiyM-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-70" value="Show users assigned to the workspace" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-70" value="Show users assigned to the workspace" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-115" y="1380" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-72" target="Mn1m6iFZU3IUEVJHGiyM-70">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-72" target="Mn1m6iFZU3IUEVJHGiyM-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-72" value="workspace/listUsers" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-72" value="workspace/listUsers" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-240" y="1540" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-74" target="Mn1m6iFZU3IUEVJHGiyM-76">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-74" target="Mn1m6iFZU3IUEVJHGiyM-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-74" value="Choose user to manage and &quot;Activate&quot; button" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-74" value="Choose user to manage and &quot;Activate&quot; button" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="80" y="1380" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-76" target="Mn1m6iFZU3IUEVJHGiyM-78">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-76" target="Mn1m6iFZU3IUEVJHGiyM-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-76" value="users/activateUser" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-76" value="users/activateUser" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="62.5" y="1540" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-78" target="Mn1m6iFZU3IUEVJHGiyM-79">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-78" target="Mn1m6iFZU3IUEVJHGiyM-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-78" value="Send activation SMS to the user" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-78" value="Send activation SMS to the user" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="26.25" y="1650" width="257.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-79" value="Confirm activation process" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-79" value="Confirm activation process" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="340" y="1380" width="220" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-80" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-80" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-690" y="1150" width="1570" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Mn1m6iFZU3IUEVJHGiyM-83">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="Mn1m6iFZU3IUEVJHGiyM-83" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-374" y="1217.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-83" target="Mn1m6iFZU3IUEVJHGiyM-89">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-83" target="Mn1m6iFZU3IUEVJHGiyM-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-83" value="Process login" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-83" value="Process login" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-302" y="1180" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-84" value="SMS Invite to join the workspace" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-84" value="SMS Invite to join the workspace" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-526" y="1182.5" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-85" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-85" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="710" y="1150" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-86" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-87">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-86" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-527.5" y="1218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-87" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-87" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-655" y="1170" width="50" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-89" target="Mn1m6iFZU3IUEVJHGiyM-90">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-89" target="Mn1m6iFZU3IUEVJHGiyM-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-89" value="Trigger password change (TBC)" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-89" value="Trigger password change (TBC)" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-115" y="1180" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-90" target="Mn1m6iFZU3IUEVJHGiyM-91">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-90" target="Mn1m6iFZU3IUEVJHGiyM-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-90" value="Confirm that account is created and waiting for admin approval" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-90" value="Confirm that account is created and waiting for admin approval" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="80" y="1180" width="230" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-91" value="Notification about approval request sent to the workspace admin" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-91" value="Notification about approval request sent to the workspace admin" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="340" y="1180" width="220" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-93" target="Mn1m6iFZU3IUEVJHGiyM-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-93" value="Payment processing" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="20" y="-170" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-93" value="Payment processing" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="246.5" y="-150" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-99" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-99" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="660" y="-180" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-100" value="API&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-100" value="API&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="660" y="-20" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
