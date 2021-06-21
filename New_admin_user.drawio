@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T12:58:09.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="oRdMpkP5XsO9ovBEca-V" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T13:10:04.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="pe4z9mk5nJQcUEXbCl3C" version="14.7.3" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2215" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,11 +22,11 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-49" value="users/createUser" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-30" y="80" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mn1m6iFZU3IUEVJHGiyM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dKdSaXE48SgPbhcamS2K-54" target="dKdSaXE48SgPbhcamS2K-55" edge="1">
+        <mxCell id="a4-rraz0j2yMTYG9HWaD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-54" target="a4-rraz0j2yMTYG9HWaD-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="Choose workspace subscribtion plan" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-177.5" y="-150" width="153.5" height="75" as="geometry" />
+          <mxGeometry x="-238.5" y="-150" width="153.5" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Mn1m6iFZU3IUEVJHGiyM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dKdSaXE48SgPbhcamS2K-55" target="dKdSaXE48SgPbhcamS2K-49" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="Create Admin user account" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="220" y="-170" width="150" height="75" as="geometry" />
+          <mxGeometry x="253.75" y="-170" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-56" value="Display Admin panel and list workspaces" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="522" y="-147.5" width="150" height="75" as="geometry" />
@@ -264,8 +264,11 @@
         <mxCell id="Mn1m6iFZU3IUEVJHGiyM-91" value="Notification about approval request sent to the workspace admin" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="340" y="1180" width="220" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="a4-rraz0j2yMTYG9HWaD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mn1m6iFZU3IUEVJHGiyM-93" target="dKdSaXE48SgPbhcamS2K-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mn1m6iFZU3IUEVJHGiyM-93" value="Payment processing" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-170" width="150" height="75" as="geometry" />
+          <mxGeometry x="90" y="-170" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Mn1m6iFZU3IUEVJHGiyM-99" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="660" y="-180" width="240" height="20" as="geometry" />
@@ -285,13 +288,10 @@
         <mxCell id="a4-rraz0j2yMTYG9HWaD-5" value="listSubscriptionPlans" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-530" y="2060" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a4-rraz0j2yMTYG9HWaD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a4-rraz0j2yMTYG9HWaD-9">
+        <mxCell id="a4-rraz0j2yMTYG9HWaD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a4-rraz0j2yMTYG9HWaD-9" target="a4-rraz0j2yMTYG9HWaD-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-260" y="1948" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="a4-rraz0j2yMTYG9HWaD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a4-rraz0j2yMTYG9HWaD-9" target="a4-rraz0j2yMTYG9HWaD-21">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4-rraz0j2yMTYG9HWaD-9" value="Choose ADD NEW WORKSPACE" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-467.5" y="1910" width="187.5" height="75" as="geometry" />
@@ -327,10 +327,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4-rraz0j2yMTYG9HWaD-21" value="Payment processing" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-205" y="1920" width="150" height="75" as="geometry" />
+          <mxGeometry x="-43.5" y="1910" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="a4-rraz0j2yMTYG9HWaD-24" value="New workspace order" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-770" y="1800" width="1590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4-rraz0j2yMTYG9HWaD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a4-rraz0j2yMTYG9HWaD-25" target="a4-rraz0j2yMTYG9HWaD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4-rraz0j2yMTYG9HWaD-25" value="Choose &amp;nbsp;NEW WORKSPACE NAME" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1945" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="a4-rraz0j2yMTYG9HWaD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a4-rraz0j2yMTYG9HWaD-27" target="Mn1m6iFZU3IUEVJHGiyM-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3" y="-132" />
+              <mxPoint x="61" y="-132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a4-rraz0j2yMTYG9HWaD-27" value="User need to provide phone number" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-57.5" y="-95" width="107.5" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
